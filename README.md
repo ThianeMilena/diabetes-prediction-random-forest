@@ -1,10 +1,10 @@
 ***PrevDiabetes - Análise Exploratória e Modelo de Machine Learning***
 
-ℹ️ **Sobre o Projeto**
+**Sobre o Projeto**
 
 O PrevDiabetes é um projeto acadêmico desenvolvido como parte de disciplinas relacionadas a backend, data science, inteligência artificial e teste de software na faculdade. Este projeto visa fornecer previsões sobre a probabilidade de diabetes com base em informações fornecidas pelos usuários. Aqui está uma visão geral das etapas realizadas na análise exploratória de dados (EDA) e na criação do modelo de machine learning.
 
-📊**Análise Exploratória de Dados (EDA)**
+📊 **Análise Exploratória de Dados (EDA)**
 
 **Balanciamento dos Dados**
 
@@ -45,6 +45,6 @@ O PrevDiabetes é um projeto acadêmico desenvolvido como parte de disciplinas r
 - Matriz de confusão, precision, recall e f1-score para avaliação detalhada.
 - Visualização da importância das características no modelo.
 
-🚀**Resultados**
+🚀 **Resultados**
 
 O modelo desenvolvido apresentou uma acurácia média de aproximadamente 93%, demonstrando uma boa capacidade de prever casos de diabetes. A análise exploratória permitiu compreender a distribuição das variáveis, identificar possíveis correlações e visualizar padrões nos dados.
